@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Moin World!</title>
+  <subtitle>Everything around coding and the web.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://moin.world/"/>
+  <updated>2017-03-27T16:57:39.000Z</updated>
+  <id>https://moin.world/</id>
+  
+  <author>
+    <name>Dominik Kundel</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Moin World!</title>
+    <link href="https://moin.world/2017/03/03/moin-world/"/>
+    <id>https://moin.world/2017/03/03/moin-world/</id>
+    <published>2017-03-03T21:35:39.000Z</published>
+    <updated>2017-03-27T16:57:39.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello or “Moin! Moin!” how you would say in Northern Germany.</p>
+<p><img src="http://i.giphy.com/ypqHf6pQ5kQEg.gif" alt="GIF of seal waving &quot;sup&quot;"></p>
+<p>My name is Dominik Kundel, I’m a software developer from Bremen, Germany and currently working as a developer evangelist for <a href="https://wwww.twilio.com" target="_blank" rel="external">Twilio</a> from Berlin, Germany. </p>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/DKundel/status/837750944674820096" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>I recently found this domain as available and figured it’s the perfect opportunity to create a new blog. I’ll be writing about all sorts of coding related topics but you can be guaranteed that a lot of it will be about <a href="https://nodejs.org" target="_blank" rel="external">Node.js</a>, JavaScript and the web in general and maybe some Swift <img class="emojione" alt="🙂" title=":slightly_smiling_face:" src="https://cdn.jsdelivr.net/emojione/assets/png/1f642.png?v=2.2.7">.</p>
+<p>This blog is powered by <a href="https://hexo.io" target="_blank" rel="external">Hexo</a> and will be fully open source on <a href="https://github.com/dkundel/moin.world" target="_blank" rel="external">GitHub</a>.</p>
+<div style="text-align:center">
+  <div class="github-card" data-user="dkundel" data-repo="moin.world" data-width="400" data-theme="default" data-target="" data-client-id="" data-client-secret=""></div>
+</div>
+<script src="/github-card-lib/githubcard.js"></script>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hello or “Moin! Moin!” how you would say in Northern Germany.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.giphy.com/ypqHf6pQ5kQEg.gif&quot; alt=&quot;GIF of seal wav
+    
+    </summary>
+    
+      <category term="general" scheme="https://moin.world/categories/general/"/>
+    
+    
+      <category term="general" scheme="https://moin.world/tags/general/"/>
+    
+  </entry>
+  
+</feed>
