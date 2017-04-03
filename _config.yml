@@ -67,10 +67,10 @@ theme_config:
   logo: /nav-logo.svg
   menu:
     Blog: /
-    Archive: /archives/
+    About: /about
     Twitter: https://twitter.com/dkundel
     GitHub: https://github.com/dkundel
-    Twilio: https://twilio.com/blog
+    Archive: /archives/
 
   startyear: 2017
 
