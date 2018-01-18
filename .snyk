@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.8.0
+version: v1.10.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -97,3 +97,6 @@ patch:
         patched: '2017-10-26T23:02:15.087Z'
     - hexo-tag-demo > marked:
         patched: '2017-10-26T23:02:15.087Z'
+  'npm:uglify-js:20150824':
+    - hexo-renderer-jade > jade > transformers > uglify-js:
+        patched: '2018-01-18T16:09:12.084Z'
