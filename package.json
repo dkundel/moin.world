@@ -35,7 +35,6 @@
   "scripts": {
     "start": "hexo server",
     "build": "hexo generate",
-    "postbuild": "cp -R admin/ public/admin",
     "deploy:now": "now --name moinworld --static public",
     "deploy": "npm-run-all build deploy:now",
     "snyk-protect": "snyk protect",
