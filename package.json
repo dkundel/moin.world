@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "hexo": {
-    "version": "3.2.2"
+    "version": "3.6.0"
   },
   "dependencies": {
     "emoji-regex": "^6.1.0",
@@ -29,9 +29,11 @@
     "snyk": "^1.69.0"
   },
   "devDependencies": {
+    "hexo-cli": "^1.1.0",
     "npm-run-all": "^4.0.2"
   },
   "scripts": {
+    "start": "hexo server",
     "build": "hexo generate",
     "deploy:now": "now --name moinworld --static public",
     "deploy": "npm-run-all build deploy:now",
