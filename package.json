@@ -26,7 +26,7 @@
     "hexo-server": "^0.2.0",
     "hexo-tag-demo": "^0.2.10",
     "hexo-tag-twitter": "^1.0.0",
-    "snyk": "^1.88.0"
+    "snyk": "^1.78.0"
   },
   "devDependencies": {
     "hexo-cli": "^1.1.0",
