@@ -8,7 +8,7 @@
   "dependencies": {
     "emoji-regex": "^6.1.0",
     "emojione": "^2.2.7",
-    "hexo": "^3.2.2",
+    "hexo": "^4.0.0",
     "hexo-auto-canonical": "^0.1.0",
     "hexo-browsersync": "^0.2.0",
     "hexo-filter-pathfix": "^0.1.2",
@@ -21,7 +21,7 @@
     "hexo-github-card": "^1.0.1",
     "hexo-renderer-ejs": "^0.3.0",
     "hexo-renderer-jade": "^0.3.0",
-    "hexo-renderer-marked": "^0.2.10",
+    "hexo-renderer-marked": "^2.0.0",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0",
     "hexo-tag-demo": "^0.2.10",
