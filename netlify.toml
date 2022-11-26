@@ -1,0 +1,17 @@
+[[redirects]]
+  from = "/2017/06/18/10-typescript-features-you-might-not-know/"
+  to = "https://dkundel.com/blog/10-typescript-features-you-might-not-know/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2017/04/01/how-we-hacked-our-coffee-machine-with-javascript/"
+  to = "https://dkundel.com/blog/how-we-hacked-our-coffee-machine-with-javascript/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*"
+  to = "https://dkundel.com/blog/"
+  status = 301
+  force = true
