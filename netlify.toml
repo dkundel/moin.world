@@ -3,6 +3,12 @@
   publish = "public"
 
 [[redirects]]
+  from = "/2017/06/18/10-TypeScript-Features-You-Might-Not-Know/"
+  to = "https://dkundel.com/blog/10-typescript-features-you-might-not-know/"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/2017/06/18/10-typescript-features-you-might-not-know/"
   to = "https://dkundel.com/blog/10-typescript-features-you-might-not-know/"
   status = 301
