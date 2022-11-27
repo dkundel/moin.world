@@ -34,7 +34,7 @@
   },
   "scripts": {
     "start": "hexo server",
-    "build": "echo 'skipping'",
+    "build": "echo 'skipping'; exit 0;",
     "deploy:now": "now --name moinworld --static public",
     "deploy": "npm-run-all build deploy:now",
     "snyk-protect": "snyk protect",
