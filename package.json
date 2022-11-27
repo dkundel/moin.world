@@ -5,7 +5,7 @@
   "hexo": {
     "version": "3.6.0"
   },
-  "dependencies": {
+  "old_dependencies": {
     "emoji-regex": "^6.1.0",
     "emojione": "^2.2.7",
     "hexo": "^3.2.2",
@@ -28,11 +28,11 @@
     "hexo-tag-twitter": "^1.0.0",
     "snyk": "^1.88.0"
   },
-  "devDependencies": {
+  "old_devDependencies": {
     "hexo-cli": "^1.1.0",
     "npm-run-all": "^4.0.2"
   },
-  "scripts": {
+  "old_scripts": {
     "start": "hexo server",
     "build": "echo 'skipping'; exit 0;",
     "deploy:now": "now --name moinworld --static public",
